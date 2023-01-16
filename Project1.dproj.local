@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/12 00:11:14.000.956,=C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 00:11:31.000.300,C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Form.pas=C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 00:11:31.000.300,C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Form.dfm=C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/12 00:11:54.000.920,C:\Users\soniy\Desktop\RAD\Visual\Project1.dproj=C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/12 00:12:15.000.324,C:\Users\soniy\Desktop\RAD\Visual\Form.pas=C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Form.pas</Transaction>
+    <Transaction>2023/01/12 00:12:15.000.324,C:\Users\soniy\Desktop\RAD\Visual\Form.dfm=C:\Users\soniy\Documents\Embarcadero\Studio\Projects\Form.dfm</Transaction>
+    <Transaction>2023/01/12 00:18:04.000.633,=C:\Users\soniy\Desktop\RAD\Visual\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 00:18:28.000.882,C:\Users\soniy\Desktop\RAD\Visual\Account.pas=C:\Users\soniy\Desktop\RAD\Visual\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
